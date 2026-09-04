@@ -11,7 +11,7 @@ My work is driven by one question: why do language models behave in ways their d
 I am originally from Hangzhou, Zhejiang, China. Before beginning graduate study in Nara, I spent a year in Tokyo at the [Waseda Bunkakan Japanese Language Course](https://waseda-bk.org/english/), where I studied Japanese systematically and became familiar with Japanese culture.
 
 <p align="center">
-  <img src="./assets/img/hangzhou.jpeg" alt="Hangzhou, Zhejiang, China" width="100%">
+  <img src="./assets/img/hangzhou.jpeg" alt="Hangzhou, Zhejiang, China" width="55%" style="max-width: 480px;">
   <br>
   <em>Hangzhou, my hometown.</em>
 </p>
@@ -44,5 +44,5 @@ I am originally from Hangzhou, Zhejiang, China. Before beginning graduate study 
 ## Languages
 
 - **Chinese:** native speaker
-- **Japanese:** JLPT N1; fluent in daily communication
-- **English:** TOEIC 960; TEM-4 and TEM-8 (Test for English Majors, China); comfortable in both academic and professional settings
+- **Japanese:** JLPT N1 (135/180); fluent in daily communication
+- **English:** TOEIC 960/990; TEM-4 and TEM-8, China's national English proficiency examinations for English majors, with TEM-8 as the highest level; my working language for research and academic writing
