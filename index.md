@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Shuyi Yu, a Master's student at the [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/), working in the [NLP Laboratory](https://nlp.naist.jp/en/) under the supervision of Prof. [Taro Watanabe](https://sites.google.com/site/tarowatanabe0918/), continuing to a Ph.D. in the same lab from October 2026. From November 2026, I will also work as a Research Assistant at the Research and Development Center for Large Language Models (LLMC), [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/).
+I am Shuyi Yu, a Master's student at the [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/), working in the [NLP Laboratory](https://nlp.naist.jp/en/) under the supervision of Prof. [Taro Watanabe](https://sites.google.com/site/tarowtnb/), continuing to a Ph.D. in the same lab from October 2026. From November 2026, I will also work as a Research Assistant at the [Research and Development Center for Large Language Models (LLMC)](https://llmc.nii.ac.jp/en/), [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/).
 
 My work is driven by one question: why do language models behave in ways their developers did not intend, and what can be done about it. I approach this from both ends, studying how safety alignment breaks down under adversarial input, and how post-training decisions shape the behavior that alignment is supposed to constrain. My goal is to make the behavior of language models something that can be understood, predicted, and deliberately controlled rather than merely observed.
 
@@ -16,7 +16,7 @@ My work is driven by one question: why do language models behave in ways their d
 
 ## News
 
-- **[Nov. 2026]** I will join the Research and Development Center for Large Language Models (LLMC), National Institute of Informatics (NII), as a Research Assistant.
+- **[Nov. 2026]** I will join the [Research and Development Center for Large Language Models (LLMC)](https://llmc.nii.ac.jp/en/), National Institute of Informatics (NII), as a Research Assistant.
 - **[Oct. 2026]** I will start my Ph.D. at the NLP Laboratory, NAIST.
 - **[Sep. 2026]** Our paper on entity-level knowledge boundary prediction is submitted to AACL-IJCNLP 2026.
 - **[Apr. 2026]** Our paper "Random Character-Level Perturbations Amplify LLM Jailbreak Attacks" is accepted to TMLR.
