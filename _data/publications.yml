@@ -1,0 +1,14 @@
+main:
+
+  - title: Random Character-Level Perturbations Amplify LLM Jailbreak Attacks
+    authors: <strong>Shuyi Yu</strong>, Zhe Cao, Kohei Tsuji, Yusuke Sakai, Hidetaka Kamigaito, Jingun Kwon, Manabu Okumura, Taro Watanabe
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2026.
+    pdf: https://openreview.net/pdf?id=BXsOIppKEI
+    page: https://openreview.net/forum?id=BXsOIppKEI
+
+  - title: "From Lexical to Entity-Level: Predicting Individual Knowledge Boundaries via Knowledge Graph Label Propagation"
+    authors: <strong>Shuyi Yu</strong>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
+    conference_short: AACL
+    conference: Submitted to AACL-IJCNLP 2026.
+    notes: Under Submission
