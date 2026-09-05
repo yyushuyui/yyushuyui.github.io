@@ -37,12 +37,12 @@ I am originally from Hangzhou, Zhejiang, China. Before beginning graduate study 
 
 ## Education
 
-- **Ph.D. in Information Science (incoming)**, Nara Institute of Science and Technology, 2026.10 --
-- **Master in Information Science**, Nara Institute of Science and Technology, 2024.10 -- 2026.9 (expected)
-- **Bachelor in English Language and Literature**, Hangzhou City University, 2019.9 -- 2023.6
+- **Ph.D. in Information Science (incoming)**, [Nara Institute of Science and Technology](https://www.naist.jp/en/), 2026.10 --
+- **Master in Information Science**, [Nara Institute of Science and Technology](https://www.naist.jp/en/), 2024.10 -- 2026.9 (expected)
+- **Bachelor in English Language and Literature**, [Hangzhou City University](https://english.hzcu.edu.cn/), 2019.9 -- 2023.6
 
 ## Languages
 
 - **Chinese:** native speaker
-- **Japanese:** JLPT N1 (135/180); fluent in daily communication
-- **English:** TOEIC 960/990, TEM-4, and TEM-8 (China's national English examinations for English majors, TEM-8 being the highest level); my working language for research and academic writing
+- **Japanese:** [JLPT](https://www.jlpt.jp/e/) N1 (135/180); fluent in daily communication
+- **English:** [TOEIC](https://www.iibc-global.org/english/toeic.html) 960/990, [TEM-4](http://tem.fltonline.cn/?p=75109), and [TEM-8](http://tem.fltonline.cn/?p=75113) (China's national English examinations for English majors, TEM-8 being the highest level); my working language for research and academic writing
