@@ -10,5 +10,5 @@ main:
   - title: "From Lexical to Entity-Level: Predicting Individual Knowledge Boundaries via Knowledge Graph Label Propagation"
     authors: <strong>Shuyi Yu</strong>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
     conference_short: AACL Findings
-    conference: Findings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics &amp; the 15th International Joint Conference on Natural Language Processing <strong>(AACL-IJCNLP)</strong>, 2026.
+    conference: IJCNLP-AACL 2026 Findings.
     notes: To appear
