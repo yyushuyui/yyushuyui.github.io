@@ -31,7 +31,7 @@ I am originally from Hangzhou, Zhejiang, China. Before beginning graduate study 
 
 - **[Nov. 2026]** I will join the [Research and Development Center for Large Language Models (LLMC)](https://llmc.nii.ac.jp/en/), [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/), as a Research Assistant.
 - **[Oct. 2026]** I will start my Ph.D. at the [NLP Laboratory](https://nlp.naist.jp/en/), [NAIST](https://www.naist.jp/en/).
-- **[Sep. 2026]** Our paper "From Lexical to Entity-Level: Predicting Individual Knowledge Boundaries via Knowledge Graph Label Propagation" is accepted to [IJCNLP-AACL 2026 Findings](https://2026.aaclnet.org/).
+- **[Sep. 2026]** Our paper "From Lexical to Entity-Level: Predicting Individual Knowledge Boundaries via Knowledge Graph Label Propagation" is accepted to [AACL-IJCNLP 2026 Findings](https://2026.aaclnet.org/).
 - **[Apr. 2026]** Our paper ["Random Character-Level Perturbations Amplify LLM Jailbreak Attacks"](https://openreview.net/forum?id=BXsOIppKEI) is accepted to [TMLR](https://jmlr.org/tmlr/).
 
 {% include_relative _includes/publications.md %}
