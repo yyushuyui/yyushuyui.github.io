@@ -45,5 +45,5 @@ I am originally from Hangzhou, Zhejiang, China. Before beginning graduate study 
 ## Languages
 
 - **Chinese:** native speaker
-- **Japanese:** [JLPT](https://www.jlpt.jp/e/) N1 (135/180); fluent in daily communication
 - **English:** [TOEIC](https://www.iibc-global.org/english/toeic.html) 960/990, [TEM-4](http://tem.fltonline.cn/?p=75109), and [TEM-8](http://tem.fltonline.cn/?p=75113) (China's national English examinations for English majors, TEM-8 being the highest level); my working language for research and academic writing
+- **Japanese:** [JLPT](https://www.jlpt.jp/e/) N1 (135/180); fluent in daily communication
