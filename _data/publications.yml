@@ -11,4 +11,5 @@ main:
     authors: <strong>Shuyi Yu</strong>, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe
     conference_short: AACL Findings
     conference: IJCNLP-AACL Findings, Hengqin, China, November 2026.
-    notes: To appear
+    pdf: https://aclanthology.org/2026.findings-aacl.87.pdf
+    page: https://aclanthology.org/2026.findings-aacl.87/
